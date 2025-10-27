@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @QcHaxing
 - 👀 I’m interested in new technologies! Also, I'm working with Php and Laravel everyday.
-- 🌱 I’m currently learning more about Laravel 8. I'm trying to dive deeper into the Framework.
 - 💞️ I'm from Gitlab, it is now the time to learn how to use Github properly!
 - 📫 You can reach me using qchaxing@gmail.com
 
