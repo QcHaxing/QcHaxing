@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @QcHaxing
-- 👀 I’m interested in new technologies! Also, I'm working with Php and Laravel everyday.
-- 💞️ I'm from Gitlab, it is now the time to learn how to use Github properly!
-- 📫 You can reach me using qchaxing@gmail.com
+# Hi, I'm Cédric Desjardins 👋
 
-<!---
-QcHaxing/QcHaxing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Web Developer
+
+I’m a web developer focused on building modern and efficient web applications.
+I enjoy creating clean, structured, and scalable projects while exploring new tools and frameworks.
+
+🔗 Portfolio: [https://productionscd.com](https://productionscd.com/)
+
+---
+
+## 🚀 Projects
+
+* **Portfolio** – Built with Laravel 13 to explore the latest framework updates and best practices
+* **SLA Tracker** – A web application designed to track and manage Solo Leveling: Arise progression as well as a Wiki for players
+* **Tour Jardin 5 Saisons** – Website developed for a local business
+
+
+---
+
+# Bonjour, je suis Cédric Desjardins 👋
+
+## 💻 Développeur Web
+
+Je suis un développeur web spécialisé dans la création d’applications modernes et performantes avec **Laravel** et les technologies web actuelles.
+J’aime concevoir des projets propres, structurés et évolutifs tout en explorant les nouvelles technologies.
+
+🔗 Portfolio : [https://productionscd.com](https://productionscd.com/)
+
+---
+
+## 🚀 Projets
+
+* **Portfolio** – Développé avec Laravel 13 pour explorer les nouvelles fonctionnalités du framework
+* **SLA Tracker** – Application web pour le suivi et la gestion des SLA
+* **Tour Jardin 5 Saisons** – Site web développé pour une entreprise locale
